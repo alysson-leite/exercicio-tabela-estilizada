@@ -1,0 +1,25 @@
+table {
+     color: white;
+     font-size: 14pt;
+     text-align: center;
+}
+
+th {
+     padding: 0.5em;
+}
+
+td {
+     padding: 0.5em;
+}
+
+.cabecalho-casa {
+     background-color: #00C4B4;
+}
+
+.cabecalho-produto {
+     background-color: #BB86FC;
+}
+
+.produtos {
+     background-color: #424250;
+}
